@@ -7,6 +7,6 @@
     function MainController() {
         this.person = 'Vishw Vajaria';
 
-        console.log(this.person);
+        console.log();
     }
 })();
